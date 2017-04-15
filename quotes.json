@@ -1,0 +1,136 @@
+{
+	"quotes": [
+		{
+			"id": 1,
+			"serbian": "Vrana vrani oči ne vadi.",
+			"english": "A crow doesn't pick out another crow's eyes.",
+			"meaning": ""
+		},
+		{
+			"id": 2,
+			"serbian": "Bolje vrabac u ruci, nego golub na grani.",
+			"english": "A bird in the hand is worth two in the bush.",
+			"meaning": "Something you have for certain now is of more value than something better you may get, especially if you risk losing what you have in order to get it."
+		},
+		{
+			"id": 3,
+			"serbian": "Bog je prvo sebi bradu stvorio.",
+			"english": "God created the beard on himself first.",
+			"meaning": "Help yourself before you help others."
+		},
+		{
+			"id": 4,
+			"serbian": "Gvožđe se kuje dok je vruće.",
+			"english": "Strike while the iron is hot.",
+			"meaning": ""
+		},
+		{
+			"id": 5,
+			"serbian": "Gde ti mnogo obećavaju, malu torbu ponesi.",
+			"english": "He who promises too much means nothing.",
+			"meaning": ""
+		},
+		{
+			"id": 6,
+			"serbian": "Gde je mnogo babica, kilava su deca.",
+			"english": "Too many cooks spoil the broth.",
+			"meaning": ""
+		},
+		{
+			"id": 7,
+			"serbian": "Iver ne pada daleko od klade.",
+			"english": "An apple doesn't fall far from the tree.",
+			"meaning": "Children observe daily and — in their behaviour — often follow the example of their parents."
+		},
+		{
+			"id": 8,
+			"serbian": "Jutro je pametnije od večeri.",
+			"english": "The morning is wiser than the evening.",
+			"meaning": "Sleeping over can make problems be solved easier."
+		},
+		{
+			"id": 9,
+			"serbian": "Ko drugome jamu kopa sam u nju pada.",
+			"english": "Who digs a trap for others ends up in it himself.",
+			"meaning": ""
+		},
+		{
+			"id": 10,
+			"serbian": "Ko rano rani, dve sreće grabi.",
+			"english": "Early to bed and early to rise makes a man healthy, wealthy and wise.",
+			"meaning": "A lifestyle that involves either staying up late nor sleeping late is good for body and mind and leads to financial success."
+		},
+		{
+			"id": 11,
+			"serbian": "Nema vatre bez dima.",
+			"english": "A crow doesn't pick out another crow's eyes.",
+			"meaning": "It is supposed that if there is a rumour, there must be some truth behind it."
+		},
+		{
+			"id": 12,
+			"serbian": "Nije zlato sve što sija.",
+			"english": "All that glitters is not gold.",
+			"meaning": "An attractive appearance may be deceptive. It may cover or hide a much less favourable content."
+		},
+		{
+			"id": 13,
+			"serbian": "Pas koji laje ne ujeda.",
+			"english": "Barking dogs seldom bite.",
+			"meaning": "People who make the most or the loudest threats are the least likely to take action."
+		},
+		{
+			"id": 14,
+			"serbian": "Ispeci pa reci.",
+			"english": "First think before you speak.",
+			"meaning": ""
+		},
+		{
+			"id": 15,
+			"serbian": "Prvo skoči pa reci hop.",
+			"english": "Walk the walk, then talk the talk.",
+			"meaning": "First do your task, then talk about it."
+		},
+		{
+			"id": 16,
+			"serbian": "Triput meri, jednom seci.",
+			"english": "Measure thrice, cut once.",
+			"meaning": "One should always act only after due consideration. A hasty action may involve an improper consideration of important aspects."
+		},
+		{
+			"id": 17,
+			"serbian": "Uzdaj se u se i u svoje kljuse!",
+			"english": "Distrust is the mother of safety.",
+			"meaning": "Trust no one; Trust, but verify."
+		},
+		{
+			"id": 18,
+			"serbian": "Što možeš danas, ne ostavljaj za sutra.",
+			"english": "Don't put off until tomorrow what you can do today.",
+			"meaning": ""
+		},
+		{
+			"id": 19,
+			"serbian": "Dela govore, a ne reči.",
+			"english": "No need of words, trust deeds.",
+			"meaning": "Actions may be, and indeed sometimes are deceptive in a measure though not as much so as words; and accordingly are received in general as more full and satisfactory proofs of the real disposition and character of persons than verbal expressions."
+		},
+		{
+			"id": 20,
+			"serbian": "Ne videti šumu od drveta.",
+			"english": "Not seeing the forest for the trees.",
+			"meaning": "To pay too much attention to details and not understand the general situation."
+		},
+		{
+			"id": 21,
+			"serbian": "Nova metla dobro mete.",
+			"english": "New brooms sweep clean.",
+			"meaning": "Newcomers are the most ambitious."
+		},
+		{
+			"id": 22,
+			"serbian": "Sve se vraća, sve se plaća.",
+			"english": "What goes around comes around.",
+			"meaning": "Evil acts quite often punish themselves. Conversely, good acts quite often reward themselves."
+		}
+	]
+}
